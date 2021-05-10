@@ -3,8 +3,9 @@ This motorized camera slider moves a DSLR camera smoothly along a slider to take
 
 <div align="center">
 
-**System Schematic**
 <img src="https://github.com/cameronapriest/motorizedcameraslider/blob/main/schematic.png" width="800">
+
+**System Schematic**
 
 </div>
 
